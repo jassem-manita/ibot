@@ -7,7 +7,7 @@
     --primary: #236493;
     --third: #236493;
     --black:#130060;
-    --white: #FFFAE2;
+    --white: #ffffff;
 }
 *{
     padding: 0;
@@ -305,7 +305,7 @@ nav > a{
     font-weight: 600 !important;
     font-size: 1.2rem !important;
     letter-spacing: 2px;
-    color: #000000 !important;
+    color: #ffffff !important;
 }
 .pricing p{
     text-align: center;
